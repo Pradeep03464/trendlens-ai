@@ -1,0 +1,5 @@
+{
+  "name": "TrendLens AI",
+  "description": "An AI-powered fashion trend forecasting application. Upload images of a model and a clothing item to generate a combined look and receive an AI-driven trend analysis and score.",
+  "requestFramePermissions": []
+}
